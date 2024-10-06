@@ -1,0 +1,14 @@
+{
+  "admin": [
+    "andrew@openmined.org"
+  ],
+  "read": [
+    "andrew@openmined.org",
+    "GLOBAL"
+  ],
+  "write": [
+    "andrew@openmined.org"
+  ],
+  "terminal": false,
+  "filepath": "/Users/atrask/Desktop/SyftBox/andrew@openmined.org/app_pipelines/llm-ring/job_example/_.syftperm"
+}
